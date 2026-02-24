@@ -1,0 +1,15 @@
+C:\POO - C#\POO\C#\bin\Debug\net10.0\hellomundo.exe
+C:\POO - C#\POO\C#\bin\Debug\net10.0\hellomundo.deps.json
+C:\POO - C#\POO\C#\bin\Debug\net10.0\hellomundo.runtimeconfig.json
+C:\POO - C#\POO\C#\bin\Debug\net10.0\hellomundo.dll
+C:\POO - C#\POO\C#\bin\Debug\net10.0\hellomundo.pdb
+C:\POO - C#\POO\C#\obj\Debug\net10.0\hellomundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\POO - C#\POO\C#\obj\Debug\net10.0\hellomundo.AssemblyInfoInputs.cache
+C:\POO - C#\POO\C#\obj\Debug\net10.0\hellomundo.AssemblyInfo.cs
+C:\POO - C#\POO\C#\obj\Debug\net10.0\hellomundo.csproj.CoreCompileInputs.cache
+C:\POO - C#\POO\C#\obj\Debug\net10.0\hellomundo.sourcelink.json
+C:\POO - C#\POO\C#\obj\Debug\net10.0\hellomundo.dll
+C:\POO - C#\POO\C#\obj\Debug\net10.0\refint\hellomundo.dll
+C:\POO - C#\POO\C#\obj\Debug\net10.0\hellomundo.pdb
+C:\POO - C#\POO\C#\obj\Debug\net10.0\hellomundo.genruntimeconfig.cache
+C:\POO - C#\POO\C#\obj\Debug\net10.0\ref\hellomundo.dll

@@ -1,10 +1,9 @@
-namespace helloMundo.
-Entities;
+namespace helloMundo.Entities;
 
 public class Profissao
 {
-    public string Titulo = "";
-    public double salario;
+    public string Titulo { get; set; } = "";
+    public double Salario { get; set; }
 
     public Profissao(string titulo, double salario)
     {

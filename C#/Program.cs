@@ -7,7 +7,7 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             Profissao prof= new Profissao("Professor", 4000.00);
-            prof1.Titulo = "Professor";
+            prof.Titulo = "Professor";
             Console.WriteLine("Olá Mundo!");
         }
     }
